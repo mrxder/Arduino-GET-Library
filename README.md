@@ -11,9 +11,9 @@ Whit this Library it is possible to easily access the GET values from an HTML FO
 1. Dowload the HttpGet directory from GitHub
 2. Copy the HttpGet directory into your local library directory of your arduino IDE
 3. Start Arduino IDE and include the Library with
-´´´cpp
+```cpp
 #include <HttpGet.h>
-´´´
+
 4. Use it as shown in the examples.
 
 ## Example
